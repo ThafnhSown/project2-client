@@ -1,0 +1,14 @@
+.main{
+  display: flex;
+  height: calc(100vh - 50px);
+  }
+  .left-container{
+  position: relative;
+  width: 1024px;
+
+
+  }
+  .right-container{
+  display: flex;
+  padding-top: 5px;
+  }
