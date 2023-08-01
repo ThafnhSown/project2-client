@@ -1,0 +1,6 @@
+.container p {
+  padding-right: 10px;
+}
+.wrap {
+  display: flex;
+}
